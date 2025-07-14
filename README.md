@@ -9,6 +9,9 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 - [AI系の情報収集手法を紹介（ビジネス・開発・研究）【2025年版】](https://zenn.dev/mkj/articles/1357a7ea2970c4)
   - 松尾研小川さんのblog post
 
+- [機械学習エンジニアに爆速でなるための教材集](https://qiita.com/KangsooKim/items/8d987a7089297068477b)
+  - ちょっと古いけど基本無料なのを薦めてるので良き
+
 
 ### お仕事 Tips
 - [テクニカルライティングの基礎](https://speakerdeck.com/naohiro_nakata/technicalwriting)
@@ -49,6 +52,18 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 - [Docker入門資料「入門 Docker」を5年ぶりにアップデートしました。](https://y-ohgi.blog/entry/2024/08/19/Docker%E5%85%A5%E9%96%80%E8%B3%87%E6%96%99%E3%80%8C%E5%85%A5%E9%96%80_Docker%E3%80%8D%E3%82%925%E5%B9%B4%E3%81%B6%E3%82%8A%E3%81%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%97%E3%81%BE%E3%81%97)
   - 入門 Dockerに直接いくより先こっち読んだ方がいい
 
+- [Pythonのloggingをイメージで理解する【Python Logging徹底解説】](https://zenn.dev/dencyu/articles/2b58f669bcd473)
+  - C#ではlog4netを使ってたけどpythonではloggerをちゃんと使ってなかったの調査
+
+- [TypeScript入門2024](https://speakerdeck.com/recruitengineers/typescriptru-men-2024)
+  - リクルートの研修資料
+
+- [Transformer](https://speakerdeck.com/yushiku/20220608_ssii_transformer)
+  - 牛久先生の資料。めちゃわかりやすい。
+
+- [廃墟を直直す、廃墟を出る、廃墟を壊す、あるいは廃墟に暮らす、廃墟に死す](https://docs.google.com/presentation/d/1hDY2pb-nYVSLr0HrtQ4EVyrDU4QGgwp4-VRG-Rf26DA/edit?slide=id.p#slide=id.p)
+  - 技術負債の話
+
 ### ビジネス系 Survey
 - [生成AI/AIによって開かれる保険の未来](https://8595762.fs1.hubspotusercontent-na1.net/hubfs/8595762/FY24Q4%20GenAI%20Event/20241002_McKinsey_Takemura_Fukumoto_GenAI.pdf)
   - マッキンゼーの発表資料
@@ -62,7 +77,13 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 - [第28回世界CEO意識調査（日本分析版）](https://www.pwc.com/jp/ja/knowledge/thoughtleadership/ceo-survey.html)
   - CEOの質問と回答
 
+- [製造業を巡る現状の課題と今後の政策の方向性（2025年1月）](https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/017_03_00.pdf)
+  - [製造産業分科会](https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/)で定期的に報告される資料
+
 ### 読み物
+- [これは水です。](https://j.ktamura.com/archives/this-is-water)
+  - 自分が意識的にしていることのきっかけになった話。毎年読み直してる
+
 - [日本のVR第一人者・GOROmanはなぜ「消滅」したのか](https://type.jp/et/feature/28605/)
   - GOROmanの現在。面白い。さすがっす。
 
@@ -80,4 +101,10 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 
 - [もうすぐ消滅する人間の翻訳について](https://note.com/aki0309/n/n1f05cb496913)
   - 考えされされる
+  
+- [開発組織が事業貢献するには](https://blog.studysapuri.jp/entry/2024/12/23/business-contribution)
+  - スタサプのマネージャーによる記事
 
+### Github
+- [IllyyaSviel](https://github.com/lllyasviel)
+  - 生成AI民主化のためにControlNetやOmostを公開した人
