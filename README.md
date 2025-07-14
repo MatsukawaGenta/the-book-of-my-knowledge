@@ -5,9 +5,9 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 ### リンク集
 
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-  - 超網羅性の高いリンク集
+  - 超網羅性の高いリンク集。これみて自分もブックマークをRepositoryに移そうと思った
 - [AI系の情報収集手法を紹介（ビジネス・開発・研究）【2025年版】](https://zenn.dev/mkj/articles/1357a7ea2970c4)
-  - 松尾研小川さんのblog post。
+  - 松尾研小川さんのblog post
 
 
 ### お仕事 Tips
