@@ -39,9 +39,6 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 ### Tech Tips
 - [わかりやすいPythonコードの秘匿化](https://qiita.com/tarantula426/items/576595f7601a264ccd2d)
   - コード納品時に重要な秘匿化について
-  
-- [12-Factor Agents - Principles for building reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
-  - 本番環境で使用するためのLLMアプリケーションを構築する12の原則」を各原則について図解、コード例で解説
 
 - [【2024年版】MIXI 新卒向け技術研修の資料・動画を公開しました！](https://zenn.dev/mixi/articles/2efdbeb0574906)
   - 量が多いので後で読もうと思っている
@@ -58,11 +55,21 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 - [TypeScript入門2024](https://speakerdeck.com/recruitengineers/typescriptru-men-2024)
   - リクルートの研修資料
 
+- [廃墟を直直す、廃墟を出る、廃墟を壊す、あるいは廃墟に暮らす、廃墟に死す](https://docs.google.com/presentation/d/1hDY2pb-nYVSLr0HrtQ4EVyrDU4QGgwp4-VRG-Rf26DA/edit?slide=id.p#slide=id.p)
+  - 技術負債の話
+
+### Computer Vision / Machine Learning
+- [言語と数理の交差点　テキストの埋め込みと構造のモデル化](https://speakerdeck.com/yukiar/yan-yu-toshu-li-nojiao-chai-dian-tekisutonomai-meip-mitogou-zao-nomoderuhua-ibis-2024-tiyutoriaru)
+  - 自然言語処理
+  
 - [Transformer](https://speakerdeck.com/yushiku/20220608_ssii_transformer)
   - 牛久先生の資料。めちゃわかりやすい。
 
-- [廃墟を直直す、廃墟を出る、廃墟を壊す、あるいは廃墟に暮らす、廃墟に死す](https://docs.google.com/presentation/d/1hDY2pb-nYVSLr0HrtQ4EVyrDU4QGgwp4-VRG-Rf26DA/edit?slide=id.p#slide=id.p)
-  - 技術負債の話
+- [Introduction to Machine Learning](https://arxiv.org/abs/2409.02668)
+  - すげぇボリューム
+
+- [12-Factor Agents - Principles for building reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
+  - 本番環境で使用するためのLLMアプリケーションを構築する12の原則」を各原則について図解、コード例で解説
 
 ### ビジネス系 Survey
 - [生成AI/AIによって開かれる保険の未来](https://8595762.fs1.hubspotusercontent-na1.net/hubfs/8595762/FY24Q4%20GenAI%20Event/20241002_McKinsey_Takemura_Fukumoto_GenAI.pdf)
@@ -104,6 +111,16 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
   
 - [開発組織が事業貢献するには](https://blog.studysapuri.jp/entry/2024/12/23/business-contribution)
   - スタサプのマネージャーによる記事
+  
+- [累計4億円調達したシリーズAのスタートアップやってたけど破産したヨ](https://note.com/suica_versa/n/n1f9d4bc3ec9e)
+  - 失敗の貴重な体験談
+
+- [新規事業・スタートアップやりたいと言っていた1年前の自分に言ってあげたい言葉](https://note.com/k1ito/n/n58ab7554ff51)
+  - 技術≠プロダクトが刺さる
+
+### 映像
+- [ハーバードのコンピュータ・サイエンスの教授だけど質問ある？ | Tech Support | WIRED Japan](https://www.youtube.com/watch?v=0TrnfeOtass)
+  - 字幕付き。普通に面白い。
 
 ### Github
 - [IllyyaSviel](https://github.com/lllyasviel)
