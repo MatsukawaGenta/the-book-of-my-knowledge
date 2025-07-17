@@ -58,7 +58,10 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 - [廃墟を直直す、廃墟を出る、廃墟を壊す、あるいは廃墟に暮らす、廃墟に死す](https://docs.google.com/presentation/d/1hDY2pb-nYVSLr0HrtQ4EVyrDU4QGgwp4-VRG-Rf26DA/edit?slide=id.p#slide=id.p)
   - 技術負債の話
 
-### Computer Vision / Machine Learning
+### Tips of Computer Vision / Machine Learning
+- [Brows State-of-The-Art](https://paperswithcode.com/sota)
+  - 最新の研究を調査するなら最初にここをみる
+
 - [言語と数理の交差点　テキストの埋め込みと構造のモデル化](https://speakerdeck.com/yukiar/yan-yu-toshu-li-nojiao-chai-dian-tekisutonomai-meip-mitogou-zao-nomoderuhua-ibis-2024-tiyutoriaru)
   - 自然言語処理
   
@@ -70,6 +73,15 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 
 - [12-Factor Agents - Principles for building reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
   - 本番環境で使用するためのLLMアプリケーションを構築する12の原則」を各原則について図解、コード例で解説
+
+
+### Dataset for Computer vision
+- [GTEA](https://paperswithcode.com/dataset/gtea)
+  - いつも指標にしているGTEA。行動分析SOTAは[こちら](https://paperswithcode.com/sota/action-segmentation-on-gtea-1)。
+
+- [Assembly101](https://assembly-101.github.io/)
+  - 難しい指標。行動分析のSOTAは[こちら](https://paperswithcode.com/sota/action-segmentation-on-assembly101)
+
 
 ### ビジネス系 Survey
 - [生成AI/AIによって開かれる保険の未来](https://8595762.fs1.hubspotusercontent-na1.net/hubfs/8595762/FY24Q4%20GenAI%20Event/20241002_McKinsey_Takemura_Fukumoto_GenAI.pdf)
