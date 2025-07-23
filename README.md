@@ -82,6 +82,15 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 - [Assembly101](https://assembly-101.github.io/)
   - 難しい指標。行動分析のSOTAは[こちら](https://paperswithcode.com/sota/action-segmentation-on-assembly101)
 
+### Raspberry Pi AI Camera
+- [aitrios-rpi-model-zoo](https://github.com/SonySemiconductorSolutions/aitrios-rpi-model-zoo)
+  - AI Modelのサンプル集
+- [aitrios-rpi-training-samples](https://github.com/SonySemiconductorSolutions/aitrios-rpi-training-samples)
+  - 学習スクリプトのサンプル
+- [aitrios-rpi-dataset-sample](https://github.com/SonySemiconductorSolutions/aitrios-rpi-dataset-sample)
+  - 簡単なお試しデータセット
+- [aitrios-rpi-sandbox](https://github.com/SonySemiconductorSolutions/aitrios-rpi-sandbox)
+  - ユースケースのサンプル集
 
 ### ビジネス系 Survey
 - [生成AI/AIによって開かれる保険の未来](https://8595762.fs1.hubspotusercontent-na1.net/hubfs/8595762/FY24Q4%20GenAI%20Event/20241002_McKinsey_Takemura_Fukumoto_GenAI.pdf)
