@@ -82,6 +82,15 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 - [Assembly101](https://assembly-101.github.io/)
   - 難しい指標。行動分析のSOTAは[こちら](https://paperswithcode.com/sota/action-segmentation-on-assembly101)
 
+- [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
+  - Objectのデータセット
+
+- [EPIC KITCHENS](https://epic-kitchens.github.io/2018)
+  - 料理のデータセット。Githubは[こちら](https://github.com/epic-kitchens)。
+
+- [IMAGENET](https://image-net.org/download-images.php)
+  - AlexnetのILSVRC2012が主に利用されている
+
 ### Raspberry Pi AI Camera
 - [aitrios-rpi-model-zoo](https://github.com/SonySemiconductorSolutions/aitrios-rpi-model-zoo)
   - AI Modelのサンプル集
