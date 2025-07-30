@@ -152,6 +152,9 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 - [新規事業・スタートアップやりたいと言っていた1年前の自分に言ってあげたい言葉](https://note.com/k1ito/n/n58ab7554ff51)
   - 技術≠プロダクトが刺さる
 
+- [先日倒産したメモリメーカーの友人と飲んできた話](https://news.nicovideo.jp/watch/nw210169) 
+  - 古い話だけど自戒を込めて時々読みなおす
+
 ### 映像
 - [ハーバードのコンピュータ・サイエンスの教授だけど質問ある？ | Tech Support | WIRED Japan](https://www.youtube.com/watch?v=0TrnfeOtass)
   - 字幕付き。普通に面白い。
