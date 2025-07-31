@@ -74,6 +74,11 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 - [12-Factor Agents - Principles for building reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
   - 本番環境で使用するためのLLMアプリケーションを構築する12の原則」を各原則について図解、コード例で解説
 
+- [【入門者向け】機械学習の分類問題評価指標解説(正解率・適合率・再現率など)](https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4)
+  - 精度に関して最も分かりやすい記事だと思う
+
+- [VSCodeのマルチカーソル練習帳](https://qiita.com/TomK/items/3b1f5be07d708d7bd6c5)
+  - VSCodeを使いこなしたい！
 
 ### Dataset for Computer vision
 - [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
