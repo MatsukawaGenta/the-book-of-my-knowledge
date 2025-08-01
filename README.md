@@ -2,6 +2,10 @@
 My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 
+### News
+- [Hacker News](https://news.ycombinator.com/)
+  - 毎朝見ているRSS
+
 ### リンク集
 
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
@@ -58,6 +62,9 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 - [廃墟を直直す、廃墟を出る、廃墟を壊す、あるいは廃墟に暮らす、廃墟に死す](https://docs.google.com/presentation/d/1hDY2pb-nYVSLr0HrtQ4EVyrDU4QGgwp4-VRG-Rf26DA/edit?slide=id.p#slide=id.p)
   - 技術負債の話
 
+- [VSCodeのマルチカーソル練習帳](https://qiita.com/TomK/items/3b1f5be07d708d7bd6c5)
+  - VSCodeを使いこなしたい！
+
 ### Tips of Computer Vision / Machine Learning
 - [Brows State-of-The-Art](https://paperswithcode.com/sota)
   - 最新の研究を調査するなら最初にここをみる
@@ -77,8 +84,8 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 - [【入門者向け】機械学習の分類問題評価指標解説(正解率・適合率・再現率など)](https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4)
   - 精度に関して最も分かりやすい記事だと思う
 
-- [VSCodeのマルチカーソル練習帳](https://qiita.com/TomK/items/3b1f5be07d708d7bd6c5)
-  - VSCodeを使いこなしたい！
+- [ゼロから作るRAW現像](https://uzusayuu.hatenadiary.jp/entry/2018/09/23/162412)
+  - 書籍化したのでそっちの方がいいが、無料で読みたいならこのブログ
 
 ### Dataset for Computer vision
 - [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
