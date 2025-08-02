@@ -69,6 +69,9 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 - [Brows State-of-The-Art](https://paperswithcode.com/sota)
   - 最新の研究を調査するなら最初にここをみる
 
+- [cvpaper.challenge](https://xpaperchallenge.org/cv/)
+  - 片岡先生のCV分野のサーベイ会
+
 - [言語と数理の交差点　テキストの埋め込みと構造のモデル化](https://speakerdeck.com/yukiar/yan-yu-toshu-li-nojiao-chai-dian-tekisutonomai-meip-mitogou-zao-nomoderuhua-ibis-2024-tiyutoriaru)
   - 自然言語処理
   
@@ -116,6 +119,10 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
   - 簡単なお試しデータセット
 - [aitrios-rpi-sandbox](https://github.com/SonySemiconductorSolutions/aitrios-rpi-sandbox)
   - ユースケースのサンプル集
+
+### Mathmatics
+- [圏論 壱大整域](https://alg-d.com/math/kan_extension/)
+  - 圏論について最も詳しいサイト 
 
 ### ビジネス系 Survey
 - [生成AI/AIによって開かれる保険の未来](https://8595762.fs1.hubspotusercontent-na1.net/hubfs/8595762/FY24Q4%20GenAI%20Event/20241002_McKinsey_Takemura_Fukumoto_GenAI.pdf)
