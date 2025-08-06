@@ -90,6 +90,18 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 - [ゼロから作るRAW現像](https://uzusayuu.hatenadiary.jp/entry/2018/09/23/162412)
   - 書籍化したのでそっちの方がいいが、無料で読みたいならこのブログ
 
+### ドリル
+
+- [構造化データ千本ノック](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess)
+
+- [Macでデータサイエンス100本ノックを動かす方法](https://qiita.com/karaage0703/items/1b18b1f4ab65d35afb5f)
+
+- [numpy千本ノック](https://github.com/rougier/numpy-100/tree/master)
+
+- [Pandas100本ノック](https://qiita.com/kunishou/items/bd5fad9a334f4f5be51c)
+
+- [画像処理100本ノック](https://github.com/KuKuXia/Image_Processing_100_Questions)
+
 ### Dataset for Computer vision
 - [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
   - Objectのデータセット
