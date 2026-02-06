@@ -153,6 +153,12 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
   - [製造産業分科会](https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/)で定期的に報告される資料
 
 ### 読み物
+- [考えてからでは遅すぎる](https://note.com/jumpei_mitsui/n/n27a3d80ec9d9)
+  - プロのレゴビルダーが東京藝術大学に入って感じたこと
+
+- [おい、辞めないなら頑張れ](https://syu-m-5151.hatenablog.com/entry/2026/01/12/003013)
+  - この前の「おい、辞めるな」含めて読むと良き
+
 - [これは水です。](https://j.ktamura.com/archives/this-is-water)
   - 自分が意識的にしていることのきっかけになった話。毎年読み直してる
 
