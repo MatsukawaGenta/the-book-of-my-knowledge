@@ -153,6 +153,9 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
   - [製造産業分科会](https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/)で定期的に報告される資料
 
 ### 読み物
+- [視点・視野・視座をちゃんと整理してみた](https://note.com/yusuke_motoyama/n/nb1329638d394)
+  - 分かりやすい言語化
+
 - [考えてからでは遅すぎる](https://note.com/jumpei_mitsui/n/n27a3d80ec9d9)
   - プロのレゴビルダーが東京藝術大学に入って感じたこと
 
