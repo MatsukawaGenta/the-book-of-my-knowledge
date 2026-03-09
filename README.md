@@ -7,12 +7,10 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
   - 毎朝見ているRSS
 
 ### リンク集
-
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
   - 超網羅性の高いリンク集。これみて自分もブックマークをRepositoryに移そうと思った
 - [AI系の情報収集手法を紹介（ビジネス・開発・研究）【2025年版】](https://zenn.dev/mkj/articles/1357a7ea2970c4)
   - 松尾研小川さんのblog post
-
 - [機械学習エンジニアに爆速でなるための教材集](https://qiita.com/KangsooKim/items/8d987a7089297068477b)
   - ちょっと古いけど基本無料なのを薦めてるので良き
 
@@ -41,6 +39,9 @@ My collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners
 
 
 ### Tech Tips
+- [数学：物理を学び楽しむために](https://haltasaki.github.io/books/math/)
+  - 田崎先生による数学教材
+  
 - [わかりやすいPythonコードの秘匿化](https://qiita.com/tarantula426/items/576595f7601a264ccd2d)
   - コード納品時に重要な秘匿化について
 
